@@ -1,0 +1,10 @@
+{
+    "context-menu": {
+        ".tree-view .file, .tree-view .directory": [
+            {
+                "label": "Create test files",
+                "command": "create-test-file:tree"
+            }
+        ]
+    }
+}

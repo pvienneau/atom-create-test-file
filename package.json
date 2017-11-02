@@ -1,0 +1,10 @@
+{
+    "name": "create-test-files",
+    "author": "Patrick Vienneau <pvien027@gmail.com>",
+    "version": "0.0.1",
+    "main": "./lib/create-test-files",
+    "dependencies": {
+        "bluebird": "^3.5.1",
+        "path": "^0.12.7"
+    }
+}

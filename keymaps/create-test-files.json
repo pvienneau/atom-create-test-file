@@ -1,0 +1,5 @@
+{
+    "atom-workspace": {
+        "cmd-alt-k": "create-test-file:run"
+    }
+}
