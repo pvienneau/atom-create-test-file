@@ -1,21 +1,19 @@
 {
-    "name": "create-test-files",
-    "description":
-        "Automatically create test files for the selected files. Configure the filename structure, and file path for all created test files.",
-    "version": "0.0.0",
-    "author": {
-        "name": "Patrick Vienneau",
-        "email": "pvien027@gmail.com"
-    },
-    "version": "0.0.1",
-    "main": "./lib/create-test-files",
-    "repository": "https://github.com/pvienneau/atom-create-test-files",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    },
-    "dependencies": {
-        "bluebird": "^3.5.1",
-        "path": "^0.12.7"
-    }
+  "name": "create-test-files",
+  "description": "Automatically create test files for the selected files. Configure the filename structure, and file path for all created test files.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Patrick Vienneau",
+    "email": "pvien027@gmail.com"
+  },
+  "main": "./lib/create-test-files",
+  "repository": "https://github.com/pvienneau/atom-create-test-files",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "path": "^0.12.7"
+  }
 }
