@@ -1,5 +1,8 @@
 {
     "name": "create-test-files",
+    "description":
+        "Automatically create test files for the selected files. Configure the filename structure, and file path for all created test files.",
+    "version": "0.0.0",
     "author": {
         "name": "Patrick Vienneau",
         "email": "pvien027@gmail.com"
@@ -9,7 +12,7 @@
     "repository": "https://github.com/pvienneau/atom-create-test-files",
     "license": "MIT",
     "engines": {
-        "atom": ">0.50.0"
+        "atom": ">=1.0.0 <2.0.0"
     },
     "dependencies": {
         "bluebird": "^3.5.1",
